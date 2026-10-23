@@ -6455,6 +6455,7 @@
 "162.120.235.251/32","DJ","","","InterNetwork"
 "162.120.235.252/32","FR","FR-27","Evreux","InterNetwork"
 "162.120.235.253/32","FR","FR-93","Aubervilliers","InterNetwork"
+"162.120.236.0/32","US","","","InterNetwork"
 "162.120.240.0/30","MX","MX-CMX","Mexico City","InterNetwork"
 "162.120.240.4/30","US","US-KS","Kansas City","InterNetwork"
 "162.120.240.8/30","US","US-LA","New Orleans","InterNetwork"
@@ -14427,3 +14428,4 @@
 "2606:40:294f:ec00::/54","DJ","","","InterNetworkV6"
 "2606:40:294f:f000::/54","FR","FR-27","Evreux","InterNetworkV6"
 "2606:40:294f:f400::/54","FR","FR-93","Aubervilliers","InterNetworkV6"
+"2606:40:2950::/54","US","","","InterNetworkV6"
